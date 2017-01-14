@@ -1,7 +1,0 @@
-C:\projects\my-crack\queue-stack\6.cpp: In member function 'void shelter::push(std::__cxx11::string, std::__cxx11::string)':
-C:\projects\my-crack\queue-stack\6.cpp:19:7: error: 'latets' was not declared in this scope
-       latets = cats;
-       ^
-C:\projects\my-crack\queue-stack\6.cpp:22:7: error: 'latests' was not declared in this scope
-       latests = dogs;
-       ^
